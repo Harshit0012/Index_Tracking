@@ -1,2 +1,4 @@
-# Index_Tracking
-I performed an explanitory data analysis and analize and compare the 30 inex stocks in terms of performanace, the risk and return. 
+# Index Tracking and Forward Testing in Finance 
+
+I performed an explanatory data analysis and analyzed and compared the 30 index stocks in terms of performance, the risk and return.
+
